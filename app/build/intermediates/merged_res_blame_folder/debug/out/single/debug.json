@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.accenture.booking.app-merged_res-4:/layout_item_segment.xml.flat",
+        "source": "com.accenture.booking.app-main-6:/layout/item_segment.xml"
+    },
+    {
+        "merged": "com.accenture.booking.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.accenture.booking.app-main-6:/layout/activity_main.xml"
+    }
+]

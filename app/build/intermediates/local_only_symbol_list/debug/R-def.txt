@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+id progressBar
+id progressLoadMore
+id recyclerView
+id swipeRefresh
+id tvDestination
+id tvError
+id tvOrigin
+id tvRoute
+id tvSegmentId
+layout activity_main
+layout item_segment
