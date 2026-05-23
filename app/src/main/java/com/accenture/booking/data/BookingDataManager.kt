@@ -6,7 +6,10 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import com.accenture.booking.data.cache.BookingCache
 import com.accenture.booking.data.service.BookingService
-import com.accenture.booking.model.*
+import com.accenture.booking.model.BookingResponse
+import com.accenture.booking.model.Location
+import com.accenture.booking.model.OriginAndDestinationPair
+import com.accenture.booking.model.Segment
 import kotlinx.coroutines.*
 
 sealed class DataState<out T> {
